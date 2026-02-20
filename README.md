@@ -23,8 +23,7 @@ Civil Engineering Insight Studio is a data-driven analysis and visualization pla
 ---
 
 ## 🌐 Live Demo 
-Demo Video: https://drive.google.com/file/d/1CvoY4tUqxvjuFWgRchyF8DZicNLf71v8/view?usp=sh
-aring 
+Demo Video: https://drive.google.com/file/d/1CvoY4tUqxvjuFWgRchyF8DZicNLf71v8/view?usp=sharing 
 
 ## 🚀 Features
 
