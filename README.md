@@ -14,9 +14,9 @@ Civil Engineering Insight Studio is a data-driven analysis and visualization pla
 
 4. Project Planning Phase/ – Timeline, task allocation, and project roadmap
 
-5. Project Development/ – Implementation of the Streamlit application, Python modules, and Gemini AI integration
+5. Project Development/ – Implementation of the Streamlit application, Python modules and Gemini AI integration
 
-6. Project Documentation/ – Comprehensive technical report, presentation materials, and supporting documents
+6. Project Documentation/ – Comprehensive technical report, presentation materials and supporting documents
 
 7. Project Demonstration/ – Application screenshots and live demo resources
 
