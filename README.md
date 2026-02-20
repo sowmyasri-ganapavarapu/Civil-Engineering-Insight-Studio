@@ -49,7 +49,7 @@ Demo Video: https://drive.google.com/file/d/1CvoY4tUqxvjuFWgRchyF8DZicNLf71v8/vi
 - Pillow (PIL)  
 - Python-dotenv  
 
-As I wrap up my internship, I’m excited to share the final outcome of my learning journey – a comprehensive AI-powered Streamlit application that analyzes civil engineering structures using Google’s Gemini AI in a meaningful way. This project reflects my growth in AI integration, application development and intelligent problem-solving in civil engineering. THANK YOU!
+As I wrap up my internship,I’m excited to share the final outcome of my learning journey – a comprehensive AI-powered Streamlit application that analyzes civil engineering structures using Google’s Gemini AI in a meaningful way. This project reflects my growth in AI integration, application development and intelligent problem-solving in civil engineering. THANK YOU!
 
 Contributed by: Sowmya Sri Ganapavarapu  
 Date: February 2026
