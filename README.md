@@ -19,23 +19,29 @@ Civil Engineering Insight Studio is a data-driven analysis and visualization pla
 🌐 Live Demo
 Demo Video: https://drive.google.com/file/d/1yXiaPI3NcRrDJxg5Y-NFgKvLUIxFRx40/view?usp=sharing
 
-##Features
-Upload Image: Upload an image of a civil engineering structure (bridge, building, dam, etc.).
-AI Analysis: Uses Google's Gemini-1.5-Flash (or compatible) model to provide a detailed breakdown including:
-Type of structure
-Materials used
-Estimated dimensions
-Construction method
-Notable features
-Engineering challenges
-Interactive UI: Clean and modern user interface built with Steamlit.
+## 🚀 Features
 
-##Technologies Used
-Python
-Streamlit
-Google Generative AI (Gemini)
-Pillow (PIL)
-Python-dotenv
+- **Upload Image:** Upload an image of a civil engineering structure (bridge, building, dam, etc.).
+
+- **AI Analysis:** Uses Google’s Gemini-1.5-Flash (or compatible) model to provide a detailed breakdown including:
+  - Type of structure
+  - Materials used
+  - Estimated dimensions
+  - Construction method
+  - Notable features
+  - Engineering challenges
+
+- **Interactive UI:** Clean and modern user interface built with Streamlit.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Streamlit  
+- Google Generative AI (Gemini)  
+- Pillow (PIL)  
+- Python-dotenv  
 
 As I wrap up my internship, I’m excited to share the final outcome of my learning journey – a comprehensive AI-powered Streamlit application that analyzes civil engineering structures using Google’s Gemini AI in a meaningful way. This project reflects my growth in AI integration, application development and intelligent problem-solving in civil engineering. THANK YOU!
 
