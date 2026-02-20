@@ -1,6 +1,8 @@
 # Civil-Engineering-Insight-Studio
 Civil Engineering Insight Studio is a data-driven analysis and visualization platform designed to explore infrastructure trends, construction insights and engineering performance metrics. It features a Streamlit application powered by Google’s Gemini AI to analyze civil engineering structures from images and generate intelligent structural insights for informed decision-making.
-📂 Repository Structure
+---
+
+## 📂 Repository Structure
 
 1. Ideation Phase/ – Brainstorming and idea finalization
 
@@ -16,7 +18,9 @@ Civil Engineering Insight Studio is a data-driven analysis and visualization pla
 
 7. Project Demonstration/ – Application screenshots and live demo resources
 
-🌐 Live Demo
+---
+
+## 🌐 Live Demo Video
 Demo Video: https://drive.google.com/file/d/1yXiaPI3NcRrDJxg5Y-NFgKvLUIxFRx40/view?usp=sharing
 
 ## 🚀 Features
